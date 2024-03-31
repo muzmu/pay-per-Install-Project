@@ -1,0 +1,1 @@
+app_id,uuid,name,type,permalink,cb_url,rank,created_at,updated_at,acquiree_uuid,acquiree_name,acquiree_cb_url,acquiree_country_code,acquiree_state_code,acquiree_region,acquiree_city,acquirer_uuid,acquirer_name,acquirer_cb_url,acquirer_country_code,acquirer_state_code,acquirer_region,acquirer_city,acquisition_type,acquired_on,price_usd,price,price_currency_code
